@@ -13,3 +13,4 @@ sentence-transformers
 faiss-cpu
 python-dotenv
 tabulate
+langchain-experimental
