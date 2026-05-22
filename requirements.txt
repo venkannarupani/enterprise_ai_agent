@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+openai
+chromadb
+pypdf
+pandas
+sqlalchemy
+tiktoken
+sentence-transformers
+faiss-cpu
+python-dotenv
+tabulate

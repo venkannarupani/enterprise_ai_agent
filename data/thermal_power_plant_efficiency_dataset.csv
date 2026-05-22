@@ -1,0 +1,11 @@
+Plant_Name,Region,Fuel_Type,Boiler_Type,Ownership,Fuel_Input_Energy_GJ_per_hr,Electrical_Output_MWh_per_hr,Steam_Temperature_C,Steam_Pressure_bar,Condenser_Pressure_bar,Auxiliary_Power_%,Efficiency_%
+Plant_1,East,Oil,Ultra Supercritical,Private,2224.38,790.03,543.3,200,0.075,4.94,35.52
+Plant_2,West,Natural Gas,Supercritical,Public,1903.05,751.41,567.6,248.7,0.046,6.22,39.48
+Plant_3,North,Oil,Supercritical,Public,3824.24,1510.69,560.8,138.2,0.042,5.29,39.5
+Plant_4,East,Biomass,Supercritical,Private,3520.3,1339,488.1,187.4,0.117,5.73,38.04
+Plant_5,East,Oil,Supercritical,Private,3083.51,966.81,571.1,234.1,0.107,7.71,31.35
+Plant_6,West,Biomass,Supercritical,Private,3678.65,1564.51,490.3,216.3,0.096,4.93,42.53
+Plant_7,North,Biomass,Supercritical,Public,3509.18,1221.61,505.3,210.6,0.073,7.81,34.81
+Plant_8,North,Coal,Ultra Supercritical,Public,1966.43,644.94,576.9,211.3,0.054,7.53,32.8
+Plant_9,East,Oil,Ultra Supercritical,Public,3731.4,1142.24,560.4,166.7,0.053,3.98,30.61
+Plant_10,South,Coal,Supercritical,Public,2848.36,1106.97,594.4,158.2,0.06,3.35,38.86

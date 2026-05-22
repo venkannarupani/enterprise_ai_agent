@@ -1,0 +1,113 @@
+﻿Sl No,Ownership Type,Fuel,Station Name,State,Commissioned Capacity (MW)
+1,NTPC Owned,Coal,Barauni,Bihar,500
+2,NTPC Owned,Coal,Barh,Bihar,3300
+3,NTPC Owned,Coal,Bongaigaon,Assam,750
+4,NTPC Owned,Coal,Dadri,Uttar Pradesh,"1,840"
+5,NTPC Owned,Coal,Darlipali,Odisha,1600
+6,NTPC Owned,Coal,Farakka,West Bengal,"2,100"
+7,NTPC Owned,Coal,"Feroze Gandhi,Unchahar",Uttar Pradesh,"1,550"
+8,NTPC Owned,Coal,Gadarwara,Madhya Pradesh,1600
+9,NTPC Owned,Coal,Kahalgaon,Bihar,"2,340"
+10,NTPC Owned,Coal,Kanti,Bihar,390
+11,NTPC Owned,Coal,Khargone,Madhya Pradesh,"1,320"
+12,NTPC Owned,Coal,Korba,Chhattisgarh,"2,600"
+13,NTPC Owned,Coal,Kudgi,Karnataka,"2,400"
+14,NTPC Owned,Coal,Lara,Chhattisgarh,"1,600"
+15,NTPC Owned,Coal,Mouda,Maharashtra,"2,320"
+16,NTPC Owned,Coal,Nabinagar-NPGC,Bihar,"1,980"
+17,NTPC Owned,Coal,North Karanpura,Jharkhand,"1,980"
+18,NTPC Owned,Coal,Ramagundam,Telangana,"2,600"
+19,NTPC Owned,Coal,Rihand,Uttar Pradesh,"3,000"
+20,NTPC Owned,Coal,Simhadri,Andhra Pradesh,"2,000"
+21,NTPC Owned,Coal,Singrauli,Uttar Pradesh,"2,000"
+22,NTPC Owned,Coal,Sipat,Chhattisgarh,"2,980"
+23,NTPC Owned,Coal,Solapur,Maharashtra,1320
+24,NTPC Owned,Coal,Talcher Kaniha,Odisha,"3,000"
+25,NTPC Owned,Coal,Tanda,Uttar Pradesh,"1,320"
+26,NTPC Owned,Coal,Telangana,Telangana,"1,600"
+27,NTPC Owned,Coal,Vindhyachal,Madhya Pradesh,"4,760"
+28,JV-Subsidiaries,Coal,BIFPCL,Khulna,"1,320"
+29,JV-Subsidiaries,Coal,Bhilai,Chhattisgarh,574
+30,JV-Subsidiaries,Coal,Durgapur,West Bengal,160
+31,JV-Subsidiaries,Coal,"IGSTPP, Jhajjar",Haryana,"1,500"
+32,JV-Subsidiaries,Coal,Jhabua,Madhya Pradesh,600
+33,JV-Subsidiaries,Coal,Meja,Uttar Pradesh,"1,320"
+34,JV-Subsidiaries,Coal,Nabinagar- BRBCL,Bihar,"1,000"
+35,JV-Subsidiaries,Coal,"NTECL, Vallur",Tamil Nadu,"1,500"
+36,JV-Subsidiaries,Coal,Rourkela,Odisha,370
+37,JV-Subsidiaries,Coal,Khurja (THDC),Uttar Pradesh,1320
+38,JV-Subsidiaries,Coal,Patratu (JBVNL),Jharkhand,1600
+39,JV-Subsidiaries,Coal,Sinnar TPL (MAHAGENCO),Maharashtra,1350
+40,JV-Subsidiaries,Energy Storage,Tehri PSP (THDC),Uttarakhand,750
+41,NTPC Owned,Gas,Anta,Rajasthan,419
+42,NTPC Owned,Gas,Auraiya,Uttar Pradesh,663
+43,NTPC Owned,Gas,Dadri,Uttar Pradesh,830
+44,NTPC Owned,Gas,Faridabad,Haryana,432
+45,NTPC Owned,Gas,Jhanor-Gandhar,Gujarat,657
+46,NTPC Owned,Gas,Kawas,Gujarat,656
+47,NTPC Owned,Gas,Rajiv Gandhi CCPP Kayamkulam,Kerala,360
+48,JV-Subsidiaries,Gas,NEEPCO-Agartala GT CCPP,Tripura,135
+49,JV-Subsidiaries,Gas,NEEPCO-Assam Gas based power plant,Assam,291
+50,JV-Subsidiaries,Gas,NEEPCO-Tripura Gas based CCPP,Tripura,101
+51,JV-Subsidiaries,Gas,RGPPL,Maharashtra,"1,967"
+52,NTPC Owned,Hydro,Koldam (HEPP),Himachal Pradesh,800
+53,JV-Subsidiaries,Hydro,Doyang HEP(3 X 25) (NEEPCO),Nagaland,75
+54,JV-Subsidiaries,Hydro,Kameng HEP(4 X 150)  (NEEPCO),Arunachal,600
+55,JV-Subsidiaries,Hydro,Kopili HEP(200+50+25) (NEEPCO),Assam,275
+56,JV-Subsidiaries,Hydro,Koteshwar HPP (THDC),Uttarakhand,400
+57,JV-Subsidiaries,Hydro,Pare HEP(2 X 55) (NEEPCO),Arunachal,110
+58,JV-Subsidiaries,Hydro,Ranganadi HEP (3X135) (NEEPCO),Arunachal,405
+59,JV-Subsidiaries,Hydro,Tehri HPP (THDC),Uttarakhand,1000
+60,JV-Subsidiaries,Hydro,Tuirial HEP(2 X 30) (NEEPCO),Mizoram,60
+61,NTPC Owned,Solar,Anta,Rajasthan,90
+62,NTPC Owned,Solar,Auraiya,Uttar Pradesh,20
+63,NTPC Owned,Solar,Auraiya FS,Uttar Pradesh,20
+64,NTPC Owned,Solar,Dadri,Uttar Pradesh,5
+65,NTPC Owned,Solar,Faridabad,Haryana,5
+66,NTPC Owned,Solar,Gandhar,Gujarat,20
+67,NTPC Owned,Solar,Kawas,Gujarat,56
+68,NTPC Owned,Solar,Kayamkulam FS,Kerala,92
+69,NTPC Owned,Solar,Nokh,Rajasthan,735
+70,NTPC Owned,Solar,Port Blair,Anadaman & Nicobar Islands,5
+71,NTPC Owned,Solar,Ramagundam,Telangana,10
+72,NTPC Owned,Solar,Ramagundam FS,Telangana,100
+73,NTPC Owned,Solar,Simhadri FS,Andhra Pradesh,25
+74,NTPC Owned,Solar,Singrauli,Uttar Pradesh,15
+75,NTPC Owned,Solar,Solapur,Maharashtra,23
+76,NTPC Owned,Solar,Talcher Kaniha,Odisha,10
+77,NTPC Owned,Solar,Unchahar,Uttar Pradesh,10
+78,NTPC Owned,Small Hydro,Vindhyachal,Madhya Pradesh,8
+79,JV-Subsidiaries,Solar,ONGPL (NGEL),Various Locations,"2,665"
+80,JV-Subsidiaries,Solar,Ananthpur (NGEL),Andhra Pradesh,250
+81,JV-Subsidiaries,Solar,Ayodhya (NGEL),Uttar Pradesh,40
+82,JV-Subsidiaries,Solar,Chhattargarh (NGEL),Rajasthan,150
+83,JV-Subsidiaries,Solar,Bhadla-1 (NGEL),Rajasthan,260
+84,JV-Subsidiaries,Solar,Bhadla-2(NGEL),Rajasthan,500
+85,JV-Subsidiaries,Solar,Bhainsara( NGEL),Rajasthan,320
+86,JV-Subsidiaries,Solar,Bilhaur (NGEL),Uttar Pradesh,225
+87,JV-Subsidiaries,Solar,Devikot (NGEL),Rajasthan,240
+88,JV-Subsidiaries,Solar,Ettayapuram (NGEL),Tamil Nadu,230
+89,JV-Subsidiaries,Solar,Fatehgarh (NGEL),Rajasthan,296
+90,JV-Subsidiaries,Solar,Jetsar (NGEL),Rajasthan,160
+91,JV-Subsidiaries,Solar,Kasargod (NGEL),Kerala,50
+92,JV-Subsidiaries,Solar,Khavda-1(NGEL),Gujarat,"1,255"
+93,JV-Subsidiaries,Solar,Khavda-2 (NGEL),Gujarat,"1,095"
+94,JV-Subsidiaries,Solar,Khavda  Tranche- V (NGEL),Gujarat,300
+95,JV-Subsidiaries,Solar,Mandsaur (NGEL),Madhya pradesh,250
+96,JV-Subsidiaries,Solar,Nokhra (NGEL),Rajasthan,300
+97,JV-Subsidiaries,Solar,GUVNL-1 (NGEL),Gujarat,62.5
+98,JV-Subsidiaries,Solar,GUVNL-2 (NGEL),Gujarat,150
+99,JV-Subsidiaries,Solar,Rajgarh (NGEL),Madhya Pradesh,50
+100,JV-Subsidiaries,Solar,Shajapur-1 (NGEL),Madhya Pradesh,105
+101,JV-Subsidiaries,Solar,Shajapur- 2 (NGEL),Madhya Pradesh,220
+102,JV-Subsidiaries,Solar,Shimbhu's Burj-1(NGEL),Rajasthan,250
+103,JV-Subsidiaries,Solar,Shimbhu's Burj-2 (NGEL),Rajasthan,300
+104,JV-Subsidiaries,Solar,Tripura (NEEPCO),Tripura,5
+105,JV-Subsidiaries,Solar,Bhilai Floating Solar,Chandigarh ,10
+106,JV-Subsidiaries,Wind,Ayana Renewable Power (ONGPL),Various Locations,534.8
+107,JV-Subsidiaries,Wind,Dayapar- I (NGEL),Gujarat,146
+108,JV-Subsidiaries,Wind,Dayapar- II (NGEL),Gujarat,50
+109,JV-Subsidiaries,Wind,Dwarka (THDC),Gujarat,63
+110,JV-Subsidiaries,Wind,Patan (THDC),Gujarat,50
+111,JV-Subsidiaries,Wind,Rojmal (NGEL),Gujarat,50
+112,JV-Subsidiaries,Small Hydro,Dhukwan (THDC),Uttar Pradesh,24
